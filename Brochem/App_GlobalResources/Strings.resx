@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="carouselBTN" xml:space="preserve">
+    <value>Learn More</value>
+  </data>
+  <data name="carouselH" xml:space="preserve">
+    <value>PROVIDING</value>
+  </data>
+  <data name="carouselNext" xml:space="preserve">
+    <value>Next</value>
+  </data>
+  <data name="carouselP" xml:space="preserve">
+    <value>HIGH QUALITY PRODUCTS AND SERVICES</value>
+  </data>
+  <data name="carouselPrevious" xml:space="preserve">
+    <value>Previous</value>
+  </data>
+  <data name="contactAddress" xml:space="preserve">
+    <value>Address: </value>
+  </data>
+  <data name="contactFax" xml:space="preserve">
+    <value>Fax:</value>
+  </data>
+  <data name="contactMessage" xml:space="preserve">
+    <value>Leave us a message</value>
+  </data>
+  <data name="contactPhone" xml:space="preserve">
+    <value>Phone: </value>
+  </data>
+  <data name="contactSubmit" xml:space="preserve">
+    <value>Send</value>
+  </data>
+  <data name="header1" xml:space="preserve">
+    <value>P</value>
+  </data>
+  <data name="header2" xml:space="preserve">
+    <value>I</value>
+  </data>
+  <data name="header3" xml:space="preserve">
+    <value>P</value>
+  </data>
+  <data name="menuAboutUs" xml:space="preserve">
+    <value>ABOUT US</value>
+  </data>
+  <data name="menuConsulting" xml:space="preserve">
+    <value>CONSULTING</value>
+  </data>
+  <data name="menuContact" xml:space="preserve">
+    <value>CONTACT</value>
+  </data>
+  <data name="menuHome" xml:space="preserve">
+    <value>HOME</value>
+  </data>
+  <data name="menuServices" xml:space="preserve">
+    <value>SERVICES</value>
+  </data>
+  <data name="p1AboutUs" xml:space="preserve">
+    <value>Brochem’s owners are chemical engineers. Our team consists of highly experienced individuals with successful track records acquired in market leading multinational companies. We have more than two decades of experience in the packaging industry, in international trade and distribution of pharmaceuticals. We supply high quality products and solution oriented services to our customers in Turkey and abroad.
+
+Our intimate knowledge of polymer chemistry and extensive experience in the global flexible packaging industry uniquely qualifies us to provide our customers with customized partnership models, product R&amp;D services, know-how transfer and production process improvements along the entire polymer value chain - thus contributing to the development of the polymer and packaging industry overall. We are specialists in the production and formulation of polymers and plastics.</value>
+  </data>
+  <data name="partEducation1" xml:space="preserve">
+    <value>Packaging industry Food Safety, Hygiene Training , AIB and BRC / IoP Food Safety For installation Systems</value>
+  </data>
+  <data name="partEducation10" xml:space="preserve">
+    <value>Introduction and optimization of quality control processes</value>
+  </data>
+  <data name="partEducation11" xml:space="preserve">
+    <value>Product R&amp;D</value>
+  </data>
+  <data name="partEducation12" xml:space="preserve">
+    <value>Product development and formulations of plastic films (BOPP, CPP, PET, Coated Films)</value>
+  </data>
+  <data name="partEducation2" xml:space="preserve">
+    <value>TS EN ISO 9001 Quality Management System</value>
+  </data>
+  <data name="partEducation3" xml:space="preserve">
+    <value>TS EN ISO 14001 Environment Management System</value>
+  </data>
+  <data name="partEducation4" xml:space="preserve">
+    <value>TS 18001 Occupational Hhealth and Safety Management System</value>
+  </data>
+  <data name="partEducation5" xml:space="preserve">
+    <value>TS EN ISO 22000 Food Safety Management System</value>
+  </data>
+  <data name="partEducation6" xml:space="preserve">
+    <value>Plastics Industry and Packaging Materials Production Systems.</value>
+  </data>
+  <data name="partEducation7" xml:space="preserve">
+    <value>BroChem’s owners look back on a 25 years history of chemically engineering polymers, plastics and packaging material and their manifold applications and production techniques.</value>
+  </data>
+  <data name="partEducation8" xml:space="preserve">
+    <value>Transfer of polymer specific state-of-the-art Know-how</value>
+  </data>
+  <data name="partEducation9" xml:space="preserve">
+    <value>Improvement of production processes</value>
+  </data>
+  <data name="partHeaderAboutUs" xml:space="preserve">
+    <value>About Us</value>
+  </data>
+  <data name="partHeaderContactUs" xml:space="preserve">
+    <value>Contact Us</value>
+  </data>
+  <data name="partHeaderContactUsDetail" xml:space="preserve">
+    <value>CONTACT INFORMATION</value>
+  </data>
+  <data name="partHeaderEducation" xml:space="preserve">
+    <value>CONSULTING &amp; SERVICES</value>
+  </data>
+  <data name="partHeaderProducts" xml:space="preserve">
+    <value>CORE BUSSINESSES</value>
+  </data>
+  <data name="placeholderMessage" xml:space="preserve">
+    <value>Message</value>
+  </data>
+  <data name="placeholderName" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="placeholderPhone" xml:space="preserve">
+    <value>Telephone</value>
+  </data>
+  <data name="productInternationalTrade" xml:space="preserve">
+    <value>International Trade</value>
+  </data>
+  <data name="productInternationalTradeDetail" xml:space="preserve">
+    <value>BroChem is internationally trading raw materials and food products. We trade foodstuff mostly between Turkey and the Balkans. </value>
+  </data>
+  <data name="productInternationalTradeDetail2" xml:space="preserve">
+    <value>We trade foodstuff mostly between Turkey and the Balkans.</value>
+  </data>
+  <data name="productInternationalTradeDetail3" xml:space="preserve">
+    <value>We are your most reliable source for a broad range of high quality and cost efficient chemical components and raw materials used in the production of plastics such as polymers, petrochemicals and ancillary products.</value>
+  </data>
+  <data name="productPharmaceuticalSector" xml:space="preserve">
+    <value>Pharmaceutical Sector</value>
+  </data>
+  <data name="productPharmaceuticalSectorDetail" xml:space="preserve">
+    <value>BroChem is a distributor of several reputable European drug companies for medicinal products for human and animal use alike for 15 countries over EMEA and Central Asia. We provide safe, cost efficient and high quality pharmaceuticals to our distribution network of pharmacies and wholesalers. Our corporate structure and swift decision making process allows the successful participation in state tenders as well as a short reaction time to serve as your procurement partner in emergency exports. We assure a timely and reliable supply of medicinal products - always.</value>
+  </data>
+  <data name="productPlasticsSector" xml:space="preserve">
+    <value>Plastics Sector</value>
+  </data>
+  <data name="productPlasticsSectorDetail" xml:space="preserve">
+    <value>BroChem supports you in all aspects related to flexible packaging and food packaging. Our activities range from reliable raw material supply to R&amp;D, contract packaging or simply providing you with the best assistance aimed at improving your own production processes. In addition, we share technical and commercial expertise with our customers the main emphasis being continued improvement of process design, quality control, and regulatory compliance while optimizing costs structures.</value>
+  </data>
+</root>

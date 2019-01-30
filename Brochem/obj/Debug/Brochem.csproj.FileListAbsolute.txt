@@ -1,0 +1,27 @@
+c:\users\oiyigun\documents\visual studio 2012\Projects\Brochem\Brochem\bin\Brochem.dll
+c:\users\oiyigun\documents\visual studio 2012\Projects\Brochem\Brochem\bin\Brochem.pdb
+c:\users\oiyigun\documents\visual studio 2012\Projects\Brochem\Brochem\obj\Debug\Brochem.csprojResolveAssemblyReference.cache
+c:\users\oiyigun\documents\visual studio 2012\Projects\Brochem\Brochem\obj\Debug\Brochem.dll
+c:\users\oiyigun\documents\visual studio 2012\Projects\Brochem\Brochem\obj\Debug\Brochem.pdb
+C:\Users\sercan\Downloads\Brochem\Brochem\Brochem\bin\Brochem.dll.config
+C:\Users\sercan\Downloads\Brochem\Brochem\Brochem\bin\Brochem.dll
+C:\Users\sercan\Downloads\Brochem\Brochem\Brochem\bin\Brochem.pdb
+C:\Users\sercan\Downloads\Brochem\Brochem\Brochem\obj\Debug\Brochem.csprojResolveAssemblyReference.cache
+C:\Users\sercan\Downloads\Brochem\Brochem\Brochem\obj\Debug\Brochem.dll
+C:\Users\sercan\Downloads\Brochem\Brochem\Brochem\obj\Debug\Brochem.pdb
+C:\Users\oiyigun\Downloads\Brochem\Brochem\Brochem\Brochem\bin\Brochem.dll
+C:\Users\oiyigun\Downloads\Brochem\Brochem\Brochem\Brochem\bin\Brochem.pdb
+C:\Users\oiyigun\Downloads\Brochem\Brochem\Brochem\Brochem\obj\Debug\Brochem.csprojResolveAssemblyReference.cache
+C:\Users\oiyigun\Downloads\Brochem\Brochem\Brochem\Brochem\obj\Debug\Brochem.dll
+C:\Users\oiyigun\Downloads\Brochem\Brochem\Brochem\Brochem\obj\Debug\Brochem.pdb
+C:\Users\oiyigun\Desktop\BROCHEMSON\Brochem\Brochem\bin\Brochem.dll
+C:\Users\oiyigun\Desktop\BROCHEMSON\Brochem\Brochem\bin\Brochem.pdb
+C:\Users\oiyigun\Desktop\BROCHEMSON\Brochem\Brochem\obj\Debug\Brochem.csprojResolveAssemblyReference.cache
+C:\Users\oiyigun\Desktop\BROCHEMSON\Brochem\Brochem\obj\Debug\Brochem.dll
+C:\Users\oiyigun\Desktop\BROCHEMSON\Brochem\Brochem\obj\Debug\Brochem.pdb
+C:\Users\sercan\Desktop\BROCHEMSON (1)\BROCHEMSON\Brochem\Brochem\bin\Brochem.dll.config
+C:\Users\sercan\Desktop\BROCHEMSON (1)\BROCHEMSON\Brochem\Brochem\bin\Brochem.dll
+C:\Users\sercan\Desktop\BROCHEMSON (1)\BROCHEMSON\Brochem\Brochem\bin\Brochem.pdb
+C:\Users\sercan\Desktop\BROCHEMSON (1)\BROCHEMSON\Brochem\Brochem\obj\Debug\Brochem.csprojResolveAssemblyReference.cache
+C:\Users\sercan\Desktop\BROCHEMSON (1)\BROCHEMSON\Brochem\Brochem\obj\Debug\Brochem.dll
+C:\Users\sercan\Desktop\BROCHEMSON (1)\BROCHEMSON\Brochem\Brochem\obj\Debug\Brochem.pdb

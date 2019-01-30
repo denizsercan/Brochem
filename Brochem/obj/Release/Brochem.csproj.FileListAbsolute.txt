@@ -1,0 +1,5 @@
+C:\Users\oiyigun\Downloads\Brochem\Brochem\Brochem\Brochem\bin\Brochem.dll
+C:\Users\oiyigun\Downloads\Brochem\Brochem\Brochem\Brochem\bin\Brochem.pdb
+C:\Users\oiyigun\Downloads\Brochem\Brochem\Brochem\Brochem\obj\Release\Brochem.csprojResolveAssemblyReference.cache
+C:\Users\oiyigun\Downloads\Brochem\Brochem\Brochem\Brochem\obj\Release\Brochem.dll
+C:\Users\oiyigun\Downloads\Brochem\Brochem\Brochem\Brochem\obj\Release\Brochem.pdb

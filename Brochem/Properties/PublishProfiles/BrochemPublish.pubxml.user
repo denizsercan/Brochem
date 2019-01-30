@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Temp\Brochem</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_GlobalResources/Strings.resx">
+      <publishTime>06/19/2016 16:57:58</publishTime>
+    </File>
+    <File Include="App_GlobalResources/Strings.tr-TR.resx">
+      <publishTime>06/19/2016 17:01:43</publishTime>
+    </File>
+    <File Include="bin/Brochem.dll">
+      <publishTime>06/30/2016 13:42:47</publishTime>
+    </File>
+    <File Include="css/benchnine.css">
+      <publishTime>06/05/2016 21:34:31</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>06/14/2016 03:24:18</publishTime>
+    </File>
+    <File Include="css/font-awesome.min.css">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="css/opensans.css">
+      <publishTime>06/05/2016 21:31:39</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>06/19/2016 16:48:59</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.eot">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.svg">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.ttf">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="fonts/FontAwesome.otf">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="img/btn-bg.jpg">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="img/eng.png">
+      <publishTime>06/14/2016 03:28:02</publishTime>
+    </File>
+    <File Include="img/item1.jpg">
+      <publishTime>06/07/2016 22:17:22</publishTime>
+    </File>
+    <File Include="img/item2.jpg">
+      <publishTime>06/07/2016 21:39:05</publishTime>
+    </File>
+    <File Include="img/item3.jpg">
+      <publishTime>06/07/2016 21:58:51</publishTime>
+    </File>
+    <File Include="img/item4.jpg">
+      <publishTime>06/07/2016 23:05:53</publishTime>
+    </File>
+    <File Include="img/item5.jpg">
+      <publishTime>06/07/2016 23:30:52</publishTime>
+    </File>
+    <File Include="img/item6.jpg">
+      <publishTime>06/07/2016 23:37:53</publishTime>
+    </File>
+    <File Include="img/logo.png">
+      <publishTime>06/05/2016 20:10:50</publishTime>
+    </File>
+    <File Include="img/member1.jpg">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="img/member2.jpg">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="img/member3.jpg">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="img/member4.jpg">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="img/member5.jpg">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="img/member6.jpg">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="img/pattern.jpg">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="img/rsz_brochemlogo3.png">
+      <publishTime>06/05/2016 22:16:33</publishTime>
+    </File>
+    <File Include="img/service1.png">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="img/service2.png">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="img/service3.png">
+      <publishTime>06/05/2016 21:09:22</publishTime>
+    </File>
+    <File Include="img/service4.png">
+      <publishTime>06/05/2016 21:09:22</publishTime>
+    </File>
+    <File Include="img/slide-four.jpg">
+      <publishTime>06/05/2016 21:09:22</publishTime>
+    </File>
+    <File Include="img/slide-one.jpg">
+      <publishTime>06/05/2016 20:01:41</publishTime>
+    </File>
+    <File Include="img/slide-three.jpg">
+      <publishTime>06/05/2016 19:52:14</publishTime>
+    </File>
+    <File Include="img/slide-two.jpg">
+      <publishTime>06/05/2016 20:02:37</publishTime>
+    </File>
+    <File Include="img/tr.png">
+      <publishTime>06/14/2016 03:29:24</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>06/19/2016 17:01:43</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="js/custom.js">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="js/gmaps.js">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="js/html5shiv.js">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="js/jquery-2.1.1.js">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="js/modernizr.js">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="js/respond.min.js">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="js/smoothscroll.js">
+      <publishTime>06/05/2016 21:09:21</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/18/2016 19:09:11</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
